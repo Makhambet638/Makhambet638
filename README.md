@@ -28,9 +28,10 @@ Currently taking web-development courses at JustCode.kz
 ### Badges
 
 <b>My GitHub Stats</b>
+ 
+### Leetcode stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/makhambetakhtayev/)
+
 
 <a href="http://www.github.com/Makhambet638"><img src="https://github-readme-stats.vercel.app/api?username=Makhambet638&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Makhambet638's GitHub stats" /></a>
 
-
-### Leetcode stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/makhambetakhtayev/)
