@@ -7,7 +7,7 @@ Web Developer
 Currently taking web-development courses at JustCode.kz
 
 * 🌍  I'm based in Kazakhstan
-* 🖥️  See my portfolio at [My website](http://makhambet638.github.io/adaptive-website.github.io/)
+* 🖥️  See my portfolio at [My website](https://makhambet638.github.io/personal-portfolio-website.github.io/)
 * ✉️  You can contact me at [makhambetakhtayev@gmail.com](mailto:makhambetakhtayev@gmail.com)
 * 🧠  I'm learning react.js
 * 🤝  I'm open to collaborating on Interesting projects
