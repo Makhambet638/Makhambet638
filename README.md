@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 -------------
 
-Currently taking web-development courses at JustCode.kz
+Full-Stack Developer in Dogovor24
 
 * 🌍  I'm based in Kazakhstan
 * 🖥️  See my portfolio at [My website](https://makhambet638.github.io/personal-portfolio-website.github.io/)
